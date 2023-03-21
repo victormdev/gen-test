@@ -1,0 +1,27 @@
+.textAlign {
+    text-align: center;
+}
+
+.flex-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container-box {
+    height: 60%;
+}
+
+.content-box {
+    text-align: center;
+}
+
+.welcome-title {
+    color: #7EBC0A;
+    font-size: 35px;
+    padding: 20px;
+}
+
+.welcome-description {
+    font-size: 16px;
+}
